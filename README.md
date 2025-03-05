@@ -1,4 +1,4 @@
 # New Project
 
-This projrct was created form the local system.
+This project was created form the local system.
 Created by sandeep singh.
